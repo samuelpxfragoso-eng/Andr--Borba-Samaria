@@ -1,14 +1,14 @@
 
 import React, { useState, useEffect } from 'react';
-import { Header } from './components/Header';
-import { Hero } from './components/Hero';
-import { Pricing } from './components/Pricing';
-import { Results } from './components/Results';
-import { Investments } from './components/Investments';
-import { Authority } from './components/Authority';
-import { FAQ } from './components/FAQ';
-import { Footer } from './components/Footer';
-import { WhatsAppButton } from './components/WhatsAppButton';
+import { Header } from './components/Header.tsx';
+import { Hero } from './components/Hero.tsx';
+import { Pricing } from './components/Pricing.tsx';
+import { Results } from './components/Results.tsx';
+import { Investments } from './components/Investments.tsx';
+import { Authority } from './components/Authority.tsx';
+import { FAQ } from './components/FAQ.tsx';
+import { Footer } from './components/Footer.tsx';
+import { WhatsAppButton } from './components/WhatsAppButton.tsx';
 
 const App: React.FC = () => {
   const [isScrolled, setIsScrolled] = useState(false);
