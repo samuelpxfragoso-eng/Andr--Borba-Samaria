@@ -1,0 +1,7 @@
+{
+  "name": "André Borba Oficial - Equipe Samaria",
+  "description": "Premium landing page for André Borba, #1 Ademicon partner in Brazil, showcasing investment strategies, the Samaria team, and high-performance consortium solutions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
